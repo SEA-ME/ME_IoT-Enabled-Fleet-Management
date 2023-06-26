@@ -205,3 +205,16 @@ Here are some open source references for an IoT-enabled fleet management system:
 5. MQTT: MQTT is a publish-subscribe messaging protocol that can be used to transmit data between the PiRacer and the cloud-based data storage solution. It is designed to be lightweight and efficient, making it ideal for use in IoT applications. (https://mqtt.org)
 
 These open source tools can be combined to create a complete IoT-enabled fleet management system that can collect, process, and visualize telemetry data from vehicles. The use of open source tools makes it easy to customize and extend the system, and helps to reduce costs and improve efficiency.
+
+
+
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
